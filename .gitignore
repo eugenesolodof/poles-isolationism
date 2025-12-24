@@ -1,0 +1,20 @@
+# Системные файлы macOS
+.DS_Store
+*.DS_Store
+._.DS_Store
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Данные (если хотите игнорировать временные файлы данных)
+*.tmp
+*.temp
+
+# Логи
+*.log

@@ -27,6 +27,7 @@
 
 ## Структура репозитория
 
+<pre>
 .
 ├── bmodels/
 │   ├── converted/       # Конвертированные объекты моделей (R → Python)
@@ -55,6 +56,7 @@
 ├── requirements.freeze.txt # Зафиксированные Python-зависимости
 ├── .gitignore
 └── README.md
+</pre>
 
 ---
 
